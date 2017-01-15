@@ -1,4 +1,6 @@
 # gentoo-ffb
+[![Build Status](https://travis-ci.org/fboaventura/gentoo-ffb.svg?branch=master)](https://travis-ci.org/fboaventura/gentoo-ffb)
+
 Gentoo Overlay repository
 
 This is Frederico Boaventura's Gentoo local portage overlay.  I keep here ebuilds for programs not on portage tree or new versions that haven't hit the main tree yet.
