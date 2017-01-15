@@ -10,8 +10,8 @@ KEYWORDS="~amd64 ~x86"
 DESCRIPTION="Desktop binary client for keybase.io"
 HOMEPAGE="http://keybase.io/"
 SRC_URI="
-amd64? (https://prerelease.keybase.io/keybase_amd64.deb -> keybase_amd64-${PN}.deb)
-x86? (https://prerelease.keybase.io/keybase_i386.deb -> keybase_x86-${PN}.deb)
+amd64? ( https://prerelease.keybase.io/keybase_amd64.deb -> keybase_amd64-${PV}.deb )
+x86? ( https://prerelease.keybase.io/keybase_i386.deb -> keybase_x86-${PV}.deb )
 "
 
 SLOT="0"
