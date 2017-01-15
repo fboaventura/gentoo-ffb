@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+        <email>frederico@boaventura.net</email>
+        <name>Frederico Freire Boaventura</name>
+  </maintainer>
+  <longdescription>
+	  MySQLTuner is a high-performance MySQL tuning script
+  </longdescription>
+</pkgmetadata>
