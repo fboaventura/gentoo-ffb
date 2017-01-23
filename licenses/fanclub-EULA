@@ -1,0 +1,74 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: http://www.thefanclub.co.za/overgrive
+
+Copyright: 2013-2015 The Fan Club <info@thefanclub.co.za>
+License: The Fan Club EULA
+ overGrive Copyright Notice
+ .
+ Copyright (c) 2015, The Fan Club <info@thefanclub.co.za>
+ .
+ 1. Copyright and Intellectual property
+ The Software and any authorized copies that you make are the intellectual 
+ property of and are owned by The Fan Club. The structure, organization, 
+ and source code of the Software are the valuable trade secrets and 
+ confidential information of The Fan Club.
+ The Software is protected by law, including but not limited to the copyright 
+ laws of the United States and other countries, and by international treaty 
+ provisions. Except as expressly stated herein, this agreement does not grant 
+ you any intellectual property rights in the Software and all rights not 
+ expressly granted are reserved by The Fan Club.
+ .
+ 2. License and Restrictions 
+ 2.1 License: Subject to the terms of this Agreement, The Fan Club hereby 
+ grants You a limited, personal, non-commercial, non-exclusive, 
+ non-sublicensable, non-assignable, license to download, install and use the 
+ The Fan Club Software on Your computer for the sole purpose of personally 
+ using the applications provided by The Fan Club and any other applications 
+ that may be explicitly provided by The Fan Club. 
+ .
+ 2.2 No Granting of Rights to Third Parties: You will not sell, assign, rent, 
+ lease, distribute, export, import, act as an intermediary or provider, or 
+ otherwise grant rights to third parties with regard to The Fan Club Software 
+ or any part thereof.
+ .
+ 2.3 No Modifications: You will not undertake, cause, permit or authorize the 
+ modification, creation of derivative works, translation, reverse 
+ engineering, decompiling, disassembling or hacking of The Fan Club Software or 
+ any part thereof except to the extent permitted by law.
+ .
+ 2.4 Third Parties: The Fan Club Software may depend on, and may 
+ incorporate itself, software and other technology owned and controlled by 
+ third parties. Any and all other third party software or technology that may 
+ be distributed together with The Fan Club Software will be subject to 
+ You explicitly accepting a license agreement with that third party. 
+ You acknowledge and agree that You will not enter into a contractual 
+ relationship with The Fan Club or its Affiliates regarding such third party 
+ software or technology and you will look solely to the applicable third party 
+ and not to The Fan Club or its Affiliates to enforce any of your rights.
+ .
+ 2.5 Exclusive Ownership: Any and all IP Rights in The Fan Club Software, the 
+ The Fan Club Website, The Fan Club Online Material and The Fan Club 
+ Promotional Materials are and shall remain the exclusive property of 
+ The Fan Club and/or its licensors. Nothing in this Agreement intends to 
+ transfer any such IP Rights to, or to vest any such IP Rights in, You. 
+ You are only entitled to the limited use of the IP Rights granted to You 
+ in this Agreement. You will not take any action to jeopardize, limit or 
+ interfere with The Fan Club’s IP Rights. Any unauthorized use of 
+ The Fan Club’s IP Rights is a violation of this Agreement as well as a 
+ violation of intellectual property laws and treaties, including without 
+ limitation copyright laws and trademark laws. All title and IP Rights in and 
+ to any third party content that is not contained in The Fan Club Software, but 
+ may be accessed through use of The Fan Club Software, is the property of the 
+ respective content owners and may be protected by applicable copyright or 
+ other intellectual property laws and treaties.
+ .
+ 2.6 No Removal of Notices: You agree that You will not remove, obscure, make 
+ illegible or alter any notices or indications of the IP Rights and/or 
+ The Fan Club’s rights and ownership thereof, whether such notice or indications 
+ are affixed on, contained in or otherwise connected to any materials.
+ .
+ This program is distributed in the hope that it will be useful, but WITHOUT 
+ ANY WARRANTY; without even the implied warranties of MERCHANTABILITY, 
+ SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR PURPOSE.
+ .
+ END LICENSE
