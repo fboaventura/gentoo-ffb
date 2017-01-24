@@ -36,7 +36,6 @@ src_prepare() {
 	unpack ./data.tar.xz
 
 	eapply "${FILESDIR}/${PN}.desktop.patch"
-	eapply "${FILESDIR}/${PN}.gschema.xml.patch"
 
 	eapply_user
 }
