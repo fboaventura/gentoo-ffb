@@ -47,10 +47,6 @@ src_install() {
 	fperms 755 /usr/bin/kbfsfuse
 	fperms 755 /usr/bin/keybase
 	fperms 755 /usr/bin/run_keybase
-
-	mkdir -p /keybase
-	fperms 777 /keybase
-
 }
 
 pkg_postinst() {
