@@ -2,12 +2,12 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
+EAPI=6
 
-inherit eutils
+inherit eutils fdo-mime
 DESCRIPTION="cross-platform Git client"
 HOMEPAGE="http://www.gitkraken.com"
-SRC_URI="http://release.gitkraken.com/linux/gitkraken-amd64.deb"
+SRC_URI="http://release.gitkraken.com/linux/gitkraken-amd64.deb -> gitkraken-2.0.1.deb"
 
 SLOT="0"
 KEYWORDS="~amd64"
@@ -21,6 +21,8 @@ LICENSE="free-noncomm"
 src_prepare() {
 	unpack ./control.tar.gz
 	unpack ./data.tar.gz
+
+	eapply_user
 }
 
 src_install() {
