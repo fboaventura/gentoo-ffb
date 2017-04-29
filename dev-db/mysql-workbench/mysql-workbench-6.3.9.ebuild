@@ -38,7 +38,7 @@ CDEPEND="${PYTHON_DEPS}
 		>=dev-cpp/ctemplate-0.95
 		>=dev-libs/libxml2-2.6.2:2
 		dev-libs/libzip
-		>=virtual/mysql-5.1
+		>=virtual/mysql-5.7
 		dev-libs/libpcre
 		>=sci-libs/gdal-1.11.1-r1[-mdb]
 		virtual/opengl
