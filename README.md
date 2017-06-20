@@ -1,6 +1,6 @@
 # gentoo-ffb
-[![Build Status master](https://travis-ci.org/fboaventura/gentoo-ffb.svg?branch=master)](https://travis-ci.org/fboaventura/gentoo-ffb)
-[![Build Status testing](https://travis-ci.org/fboaventura/gentoo-ffb.svg?branch=testing)](https://travis-ci.org/fboaventura/gentoo-ffb)
+master: [![Build Status master](https://travis-ci.org/fboaventura/gentoo-ffb.svg?branch=master)](https://travis-ci.org/fboaventura/gentoo-ffb)
+testing: [![Build Status testing](https://travis-ci.org/fboaventura/gentoo-ffb.svg?branch=testing)](https://travis-ci.org/fboaventura/gentoo-ffb)
 
 ## My Gentoo Overlay repository (AKA Disclaimer)
 
